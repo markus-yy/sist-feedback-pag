@@ -129,7 +129,7 @@ p {
 }
 @font-face {
     font-family: "Fontatica";
-    src: url("fonts/fontatica4F.otf") format(opentype);
+    src: url("https://markus-yy.github.io/sist-feedback-pag/fonts/fontatica4F.otf") format(opentype);
     font-weight: bold;
     font-style:normal;
 }
